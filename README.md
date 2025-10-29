@@ -1,4 +1,5 @@
 📘 Book Finder App
+ 
 🔍 Overview
 
 The Book Finder App allows users to search for books by title using the Open Library API.
@@ -15,8 +16,12 @@ This project was created as part of a UI Take-Home Challenge, focusing on buildi
 
 🛠️ Technologies Used
 
+
 React.js — for building the user interface
+
 CSS — for styling
+
+ 
 Open Library API — for fetching book data
 https://openlibrary.org/search.json?title={bookTitle}
 
