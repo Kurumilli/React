@@ -34,8 +34,11 @@ https://openlibrary.org/search.json?title={bookTitle}
 
 🧩 How to Run Locally
 Clone or download this repository
+
 Run the following commands in your terminal:
+
 npm install
+
 npm start
 
 The app will start on
@@ -43,8 +46,11 @@ http://localhost:3000
 
 
 🚀 Future Improvements
+
 Add filters (by author, year, or genre)
+
 Show more details (publisher, ratings)
+
 Add favorites or bookmarking feature
 
 
