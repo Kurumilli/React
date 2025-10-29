@@ -6,11 +6,17 @@ The Book Finder App allows users to search for books by title using the Open Lib
 It displays results with book covers, authors, and publication years in a clean, responsive UI.
 
 This project focuse on building a functional and user-friendly web application using React and CSS.
+
 ⚙️ Features
+
 ✅ Search books by title
+
 ✅ Displays book cover, author, and publish year
+
 ✅ Handles loading and “no results found” states
+
 ✅ Responsive design for mobile and desktop
+
 ✅ Clean and minimal interface
 
 
